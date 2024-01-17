@@ -45,7 +45,7 @@ function FAQ() {
             <div className="que flex justify-between   font-bold ">
               <h1>{item.que}</h1>
               <div className="pr-[5px] pt-[9px]">
-                  {item.isOpen?<img className="transform rotate-180 transition-transform duration-500 ease-in-out" src="./src/assets/downArrow.png" alt="" />:<img className="" src="./src/assets/downArrow.png" alt="" />}
+                  {item.isOpen?<img className="transform rotate-180 transition-transform duration-100 ease-in-out" src="./src/assets/downArrow.png" alt="" />:<img className="" src="./src/assets/downArrow.png" alt="" />}
               </div>
             </div>
             {item.isOpen?<div className="ans w-[750px] pt-3 text-[#46444C] font-medium overflow-hidden transition-height duration-1000 ease-in-out">

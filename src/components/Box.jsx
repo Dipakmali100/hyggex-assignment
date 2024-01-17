@@ -21,7 +21,7 @@ function Box() {
                 <img src="./src/assets/volume.png" alt="" />
               </div>
             </div>
-            <div className="mt-[110px] text-[40px] font-bold text-white font-lato tracking-wide">
+            <div className="mt-[100px] text-[40px] font-bold text-white font-lato tracking-wide">
               <h1>9 + 6 + 7x - 2x - 3</h1>
             </div>
           </div>
@@ -35,7 +35,7 @@ function Box() {
                 <img src="./src/assets/volume.png" alt="" />
               </div>
             </div>
-            <div className="mt-[110px] text-[40px] font-bold text-white font-lato tracking-wide">
+            <div className="mt-[100px] text-[40px] font-bold text-white font-lato tracking-wide">
               <h1>5x + 12</h1>
             </div>
           </div>
